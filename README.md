@@ -12,5 +12,5 @@ The  Learning Path by TailorTeach is driven by the recognition that each student
 
 ## Screenshots of Demo
 
-![Input Page](screenshots/screen1.png)
-![Generated Test Page](screenshots/screen2.png)
+![Input Page](screenshots/SCREEN1.png)
+![Generated Test Page](screenshots/SCREEEN2.png)
