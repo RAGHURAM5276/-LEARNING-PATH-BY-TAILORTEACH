@@ -10,7 +10,4 @@ The  Learning Path by TailorTeach is driven by the recognition that each student
 - Answer all questions, then click "Create Learning Topic Tree".
 - Review your proficiency, areas for development, and topics needing exploration.
 
-## Screenshots of Demo
 
-![Input Page](screenshots/SCREEN1.png)
-![Generated Test Page](screenshots/SCREEEN2.png)
